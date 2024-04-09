@@ -1,0 +1,34 @@
+/**
+ * @Project NUKEVIET 4.x
+ * @Author hongoctrien (hongoctrien@2mit.org)
+ * @Copyright (C) 2015 hongoctrien. All rights reserved
+ * @License GNU/GPL version 2 or any later version
+ * @Createdate Fri, 04 Sep 2015 23:27:19 GMT
+ */
+
+.viewlist .list-title{
+	margin: 10px 0 5px 0
+}
+
+.viewlist .list-content{
+	border-top: 1px dotted #DDDDDD;
+	margin: 0 5px 0 5px;
+	padding: 10px 0 10px 0;
+}
+
+.viewlist .pagination{
+	margin-top: 0
+}
+
+.detail .dl-horizontal dd{
+	margin: 10px 0 10px 180px;
+}
+
+.block_laws_cat_tabs ul, .block_laws_organ_tabs ul{
+	padding: 5px
+}
+
+ul.block_laws_block li{
+	border-bottom: 1px solid #ddd;
+	padding: 10px 0 10px 0
+}
