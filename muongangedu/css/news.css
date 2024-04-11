@@ -1,0 +1,25 @@
+﻿.news_column h2{
+    position: relative;
+    overflow: hidden;
+}
+
+.news_column h2:after{
+    position: absolute;
+    content: '';
+    background-color: #fff;
+    height: 42px;
+    width: 70px;
+    transform: rotate(47deg);
+    left: 58%;
+    top: -15px;
+}
+
+.news_column h2 a{
+    display: inline-block;
+    color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 25px;
+    background-color: #0078d3;
+    padding: 8px 42px 8px 20px
+}
